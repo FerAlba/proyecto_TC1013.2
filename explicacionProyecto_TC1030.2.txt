@@ -1,7 +1,0 @@
-OBJETIVO DEL PROYECTO:
-
-Se pretende crear un programa capaz de emular el comportamiento de algunas de las células de la retina ocular encargadas de la percepción de estímulos lumínicos -fotorreceptores: conos y bastones-, basándose en la sensibilidad que han demostrado experimentalmente ante estímulos visuales externos.
-
-Los fotorreceptores son un tipo de neuronas lumínicamente sensitiva, integrados a su vez por conos y bastones (los primeros son capaces de percibir el color, mientras que los segundos son sensibles al cambio de intensidad de la luz). Se busca simular la manera en que éstos se encuentran mayor o menormente activados ante ciertas frecuencias de onda visual.
-
-Los casos de falla se presentarían cuando las longitudes de onda percibida no se encuentren dentro de los rangos previamente estimados, por lo que es necesario buscar reducir el margen de error mediante posibles modelos matemáticos.
